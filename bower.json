@@ -1,0 +1,30 @@
+{
+  "name": "hackgenySF",
+  "homepage": "https://github.com/Hacking-SF/hackgenySF",
+  "authors": [
+    "Ahsan Zahid <pie.is.forever@gmail.com>"
+  ],
+  "description": "Site for HackGenY SF",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "hackathon",
+    "san",
+    "francisco",
+    "hackgeny",
+    "hackingsf",
+    "hack",
+    "programming"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
